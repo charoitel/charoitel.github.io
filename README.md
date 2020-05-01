@@ -14,4 +14,4 @@
 
 > Manipulating conversions between Traditional Chinese, Simplified Chinese and Japanese Kanji (Shinjitai) using [OpenCC](https://github.com/BYVoid/OpenCC) on AWS Lambda
 
-<small>© 2020 Charoite L.</small>
+© 2020 Charoite L.
