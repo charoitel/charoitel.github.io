@@ -6,4 +6,4 @@
 
 > Cairo backed Mozilla Web Canvas API implementation layer for AWS Lambda
 
-© 2020-2023 Charoite L.
+© 2020-2023 Charoite Lee
